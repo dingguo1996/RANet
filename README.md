@@ -17,17 +17,17 @@ If you find RANet useful in your research, please consider citing:
 }
 ```    
 
-## Requirements
+### Requirements
 Python 3.7  
 PyTorch 1.1  
 GCC 4.8.5  
 CUDA 9.0  
 
-##Installing and Running:
+### Installing and Running:
 
 Following the [pytorch-segmentation-toolbox](https://github.com/speedinghzl/pytorch-segmentation-toolbox).
 
-##Result
+### Result
 The probability of results on the three datasets can be download.
 
 [Cityscapes](https://pan.baidu.com/s/1_cCDNgUMuO3jivytKlOTXQ), code:votw
