@@ -18,8 +18,8 @@ If you find RANet useful in your research, please consider citing:
 ```    
 
 ## Requirements
-Python 3.7
-PyTorch 1.1
+Python 3.7  
+PyTorch 1.1  
 GCC 4.8.5  
 CUDA 9.0  
 
